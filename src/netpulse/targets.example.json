@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "interval_seconds": 300,
+  "samples": 3,
+  "timeout_seconds": 2,
+  "dns_hostname": "example.com",
+  "access_medium": "Wi-Fi",
+  "verification_source": "unverified",
+  "confirmed_interface": null,
+  "isp": null,
+  "location_category": "unknown",
+  "throughput_enabled": false,
+  "throughput_interval_seconds": 3600,
+  "max_download_bytes": 262144,
+  "targets": [
+    {
+      "id": "cloudflare-public-dns",
+      "host": "1.1.1.1",
+      "approved": true,
+      "port": 443,
+      "download_url": null
+    }
+  ],
+  "pilot_days": 7
+}
