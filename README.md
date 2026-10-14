@@ -22,6 +22,12 @@ https://youtu.be/ycyPhKleZVQ
 
 https://a3-ps014-tc169-ntbkhtdkr3srltwqfsroms.streamlit.app/
 
+## Team Introduction Video
+
+Meet Team SYNORA and learn about our project, NetPulse, developed for AIORI Hackathon 3.
+
+**YouTube Introductory Video:https://www.youtube.com/shorts/MaQvLgUFROo
+
 ## Overview
 
 NetPulse is a prototype for monitoring and comparing internet connection quality across verified access media. It aims to help users understand network performance over time through measurable indicators and dashboard visualisations.
