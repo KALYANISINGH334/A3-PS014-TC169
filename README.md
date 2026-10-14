@@ -11,7 +11,7 @@
 | Name | Email |
 |------|------|
 | Kalyani Singh | kalyanising997@gmail.com |
-| Shruti Singh | SHRUTISINGH@200707 |
+| Shruti Singh | Shrutisingh1719@gmail.com |
 | Shikha Singh | ssingh8@lko.amity.edu |
 
 ## Intro Video
